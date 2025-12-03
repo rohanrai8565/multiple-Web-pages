@@ -1,3 +1,6 @@
+#link 
+multiple-web-pages.netlify.app
+
 # Multiple Web Pages
 
 This project contains a set of simple yet well-structured web pages including a **Resume** and **Bio-data**, built using **HTML**, styled with **CSS**, and enhanced with **JavaScript/jQuery** for interactivity. It demonstrates how to organize multiple pages within a single project and link them together seamlessly.
